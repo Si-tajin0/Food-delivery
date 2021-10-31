@@ -7,7 +7,7 @@ const Banner = () => {
         <section className="banner-bg-1">
             <div className="banner-bg-2">
                 <div className="flex items-center max-w-screen-xl mx-auto px-6 py-3">
-                    <div className="text-white flex items-center justify-center">
+                    <div className="text-white lg:flex items-center justify-center">
                         <div>
                             <h1 className="text-7xl">Express <br />
                                 <span className="text-yellow-500">Home Delivery</span></h1>
