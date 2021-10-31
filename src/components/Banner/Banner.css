@@ -1,0 +1,25 @@
+.banner-bg-1 {
+    background-image: url("../../Images/slider-eclipse.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height:100vh;
+}
+.banner-bg-2 {
+    background-image: url("../../Images/slider-glob.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 100vh;
+}
+
+.banner-bg-3 {
+    background-image: url('https://i.ibb.co/7tzznsV/5693963.jpg');
+    background-position: bottom center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.home-offer {
+    background-image: url('https://i.ibb.co/ssh21hQ/sit-bg.png');
+}
